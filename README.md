@@ -8,7 +8,7 @@ I am a First-Class Honours Computer Science Graduate who specialises in Artifici
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [AbidonJudeFernandes@Gmail.com](mailto:AbidonJudeFernandes@Gmail.com)
-* 🚀  I'm currently working on [Ice Cream Shop](http://https://github.com/Abidon-J-F/Personal-Development/blob/main/Java/Intermediate/Ice_Cream_Shop.java)
+* 🚀  I'm currently working on [Ice Cream Shop](https://github.com/Abidon-J-F/Personal-Development/blob/main/Java/Intermediate/Ice_Cream_Shop.java)
 * 🧠  I'm learning Microsoft Certified: Azure AI Fundamentals
 * 🤝  I'm open to collaborating on complex and interesting projects
 * ⚡  I publish my completed projects on GitHub and Kaggle. I solve technological problems for my family and friends. I journal my progress and improve any identified weaknesses. I read books and articles based on my career field and interests. Most importantly, I have an Omnitrix which I use to save Earth and its people from alien threats secretly. Please don't tell anyone it is our little secret ;)
