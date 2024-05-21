@@ -11,7 +11,7 @@ I am a First-Class Honours Computer Science Graduate who specialises in Artifici
 * 🚀  I'm currently working on [Ice Cream Shop](http://github.com/Abidon-J-F/Personal-Development/blob/main/Java/Intermediate/Ice_Cream_Shop.java)
 * 🧠  I'm learning Microsoft Certified: Azure AI Fundamentals
 * 🤝  I'm open to collaborating on complex and interesting projects
-* ⚡  I publish my completed projects on GitHub and Kaggle. I solve technological problems for my family and friends. I journal my progress and improve any identified weaknesses. I read books and articles based on my career field and interests. Most importantly, I am an Omnitrix user. I use it to save Earth and my people from alien threats and invasion in secrecy. Please don't tell anyone it is our little secret ;)
+* ⚡  I publish my completed projects on GitHub and Kaggle. I solve technological problems for my family and friends. I journal my progress and improve any identified weaknesses. I read books and articles based on my career field and interests. Most importantly, I am an Omnitrix user. I use it to save Earth and my people from alien threats and invasion in secrecy. Please don't tell anyone. It is our little secret ;)
 
 <a href="https://www.github.com/Abidon-J-F" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Abidon-J-F?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
