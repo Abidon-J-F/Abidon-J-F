@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/Abidon-J-F?logo=github&style=for-th
   
 #### SCRIPTING
 <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a>
 
 #### CODE EDITORS
 <p align="left">
