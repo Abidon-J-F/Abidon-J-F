@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Graduate and Artificial Intelligence specialised
 -----------------------------------------------------------------
 
-I am a First-Class Honours Computer Science Graduate who specialises in Artificial Intelligence. I developed Fake News Detection and Sentiment Analysis software for my dissertation. I am experienced in Natural Language Processing and Computer Vision. I have 6+ years of experience in Python and Java programming languages. Finally, I love solving complex challenges.
+I am a First-Class Honours Computer Science Graduate who specialises in Artificial Intelligence. I developed Fake News Detection and Sentiment Analysis software for my dissertation. I am experienced in Generative AI, Natural Language Processing and Computer Vision. I have 6+ years of experience in Python and Java programming languages. Certified in Oracle OCI Gen AI, Codecademy Java, SQL and Algorithm. Finally, I love solving complex challenges.
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [AbidonJudeFernandes@Gmail.com](mailto:AbidonJudeFernandes@Gmail.com)
