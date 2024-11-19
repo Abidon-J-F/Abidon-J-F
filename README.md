@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Graduate and Artificial Intelligence specialised
 -----------------------------------------------------------------
 
-I am a First-Class Honours Computer Science Graduate who specialises in Artificial Intelligence. I developed Fake News Detection and Sentiment Analysis software for my dissertation. I am experienced in Generative AI, Natural Language Processing and Computer Vision. I have 6+ years of experience in Python and Java programming languages. Certified in Oracle OCI Gen AI, Codecademy Java, SQL and Algorithm. Finally, I love solving complex challenges.
+I am a First-Class Honours Computer Science Graduate who specialises in Artificial Intelligence. I developed Fake News Detection and Sentiment Analysis software for my dissertation. I am experienced in Generative AI, Natural Language Processing and Computer Vision. I have 6+ years of experience in Python and Java programming languages. Certified in Google Gen AI, Oracle OCI Gen AI, Codecademy Java, SQL and Algorithm. Finally, I love solving complex challenges.
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [AbidonJudeFernandes@Gmail.com](mailto:AbidonJudeFernandes@Gmail.com)
 * 🚀  I'm currently working on... <!-- [Ice Cream Shop](http://github.com/Abidon-J-F/Personal-Development/blob/main/Java/Intermediate/Ice_Cream_Shop.java) -->
-* 🧠  I'm learning...
-* 🤝  I'm open to collaborating on complex and interesting projects
+<!--b* 🧠  I'm learning...* 🚀  I'm currently working on... -->
+<!-- * 🤝  I'm open to collaborating on complex and interesting projects -->
 * ⚡  I publish my completed projects on GitHub and Kaggle. I solve technological problems for my family and friends. I journal my progress and improve any identified weaknesses. I read books and articles based on my career field and interests. Most importantly, I am an Omnitrix user. I use it to save Earth and my people from alien threats and invasion in secrecy. Please don't tell anyone. It is our little secret ;)
 
 <a href="https://www.github.com/Abidon-J-F" target="_blank" rel="noreferrer"><img
