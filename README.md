@@ -6,7 +6,7 @@ Computer Science Graduate and Artificial Intelligence specialised
 
 I am a First-Class Honours Computer Science Graduate who specialises in Artificial Intelligence. I developed Fake News Detection and Sentiment Analysis software for my dissertation. I am experienced in Generative AI, Natural Language Processing and Computer Vision. I have 6+ years of experience in Python and Java programming languages. Certified in Google Gen AI, Oracle OCI Gen AI, Codecademy Java, SQL and Algorithm. Finally, I love solving complex challenges.
 
-* 🌍  I'm based in London, United Kingdom
+* 🌍  I am based in London, United Kingdom
 * ✉️  You can contact me at [AbidonJudeFernandes@Gmail.com](mailto:AbidonJudeFernandes@Gmail.com)
 <!-- * 🚀  I'm currently working on... <!-- [Ice Cream Shop](http://github.com/Abidon-J-F/Personal-Development/blob/main/Java/Intermediate/Ice_Cream_Shop.java) -->
 <!-- * 🧠  I'm learning...* 🚀  I'm currently working on... -->
