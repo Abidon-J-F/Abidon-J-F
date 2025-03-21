@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abidon Jude Fernandes
+Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abidon Jude Fernandes
 =============================================================================================================================================
 
 Computer Science Graduate and Artificial Intelligence specialised
 -----------------------------------------------------------------
 
-I am a First-Class Honours Computer Science Graduate who specialises in Artificial Intelligence. I developed Fake News Detection and Sentiment Analysis software for my dissertation. I am experienced in Generative AI, Natural Language Processing and Computer Vision. I have 6+ years of experience in Python and Java programming languages. Certified in Google Gen AI, Oracle OCI Gen AI, Codecademy Java, SQL and Algorithm. Finally, I love solving complex challenges.
+I am a Computer Scientist and my speciality is the Artificial Intelligence field. For my BSc (Hons) Computer Science dissertation, I developed Fake News Detection and Sentiment Analysis software. I am experienced in Generative AI, Natural Language Processing, and Computer Vision. I am proficient in the Python and Java programming languages. I have acquired multiple certifications. Examples include but are not limited to Google Introduction to Generative AI, Oracle Cloud Infrastructure Generative AI Professional, Codecademy Java, SQL, Algorithms etc.
 
 <!-- * 🌍  I am based in London, United Kingdom -->
 <!-- * ✉️  You can contact me at [AbidonJudeFernandes@Gmail.com](mailto:AbidonJudeFernandes@Gmail.com) -->
