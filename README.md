@@ -4,7 +4,7 @@ Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-078
 Computer Science Graduate and Artificial Intelligence specialised
 -----------------------------------------------------------------
 
-I am a Computer Scientist and my speciality is the Artificial Intelligence field. For my BSc (Hons) Computer Science dissertation, I developed Fake News Detection and Sentiment Analysis software. I am experienced in Generative AI, Natural Language Processing, and Computer Vision. I am proficient in the Python and Java programming languages. I have acquired multiple certifications. Examples include but are not limited to Google Introduction to Generative AI, Oracle Cloud Infrastructure Generative AI Professional, Codecademy Java, SQL, Algorithms etc.
+I am a Computer Scientist and my area of domain is Artificial Intelligence. For my BSc (Hons) Computer Science dissertation, I developed Fake News Detection and Sentiment Analysis software. I am experienced in Generative AI, Natural Language Processing, and Computer Vision. I am proficient in the Python and Java programming languages. I have acquired multiple certifications. Examples include but are not limited to Google Introduction to Generative AI, Oracle Cloud Infrastructure Generative AI Professional, Codecademy Java, SQL, Algorithms etc.
 
 <!-- * 🌍  I am based in London, United Kingdom -->
 <!-- * ✉️  You can contact me at [AbidonJudeFernandes@Gmail.com](mailto:AbidonJudeFernandes@Gmail.com) -->
@@ -13,8 +13,8 @@ I am a Computer Scientist and my speciality is the Artificial Intelligence field
 <!-- * 🤝  I'm open to collaborating on complex and interesting projects -->
 <!-- * ⚡  I publish my completed projects on GitHub and Kaggle. I solve technological problems for my family and friends. I journal my progress and improve any identified weaknesses. I read books and articles based on my career field and interests. Most importantly, I am an Omnitrix user. I use it to save Earth and my people from alien threats and invasion in secrecy. Please don't tell anyone. It is our little secret ;) -->
 
-<a href="https://www.github.com/Abidon-J-F" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Abidon-J-F?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
+<!-- <a href="https://www.github.com/Abidon-J-F" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Abidon-J-F?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a> -->
 
 ### Skills
 
