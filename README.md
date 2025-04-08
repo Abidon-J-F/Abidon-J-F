@@ -4,7 +4,7 @@ Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-078
 Computer Scientist, Artificial Intelligence Specialist
 -----------------------------------------------------------------
 
-I am a Computer Scientist and my area of domain is Artificial Intelligence. For my BSc (Hons) Computer Science dissertation, I developed Fake News Detection and Sentiment Analysis software. I am experienced in Generative AI, Natural Language Processing, and Computer Vision. I am proficient in the Python and Java programming languages. I have acquired multiple certifications. Examples include but are not limited to Google Introduction to Generative AI, Oracle Cloud Infrastructure Generative AI Professional, Codecademy Java, SQL, Algorithms etc.
+Hello there and welcome to my GitHub page. Enjoy your stay :)
 
 <!-- * 🌍  I am based in London, United Kingdom -->
 <!-- * ✉️  You can contact me at [AbidonJudeFernandes@Gmail.com](mailto:AbidonJudeFernandes@Gmail.com) -->
